@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 12,
+    "explorer.compactFolders": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+    "python": "cls ; python -u",
+    },
+    "code-runner.ignoreSelection": true,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "python"
+}
