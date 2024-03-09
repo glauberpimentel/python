@@ -1,0 +1,25 @@
+"""
+DockString
+python = Linguagem de programação
+tipo de tipagem = Dinâmica / Forte
+str -> string ->texto
+strings são textos que estão dentro de aspas
+
+"""
+
+print(1234)
+
+# Aspas simples
+print('Glauber Pimentel')
+print('1, Glauber "Pimentel"')
+
+# Aspas duplas
+print("Glauber Pimentel")
+print("Glauber 'Pimentel'")
+
+# Escape
+print('Glauber \"Pimentel')
+print('Glauber \'Pimentel\'')
+
+#r
+print(r'Glauber \'\Pimentel\'')
